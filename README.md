@@ -31,7 +31,6 @@
 ##  GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karimtamboli07&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=karimtamboli07&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
