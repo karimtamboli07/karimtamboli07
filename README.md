@@ -43,11 +43,3 @@
   <a href="https://github.com/karimtamboli07"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
-
-##  Featured Projects  
--  [**Az-self-host-agent-Automate**](https://github.com/karimtamboli07/Az-self-host-agnet-Automate) — Automates VM/K8s Azure DevOps agent setup  
--  [**K8S-Cluster**](https://github.com/karimtamboli07/K8S-Cluster) — Kubernetes cluster setup & monitoring on Azure  
-
----
- *“Let’s automate everything.”*
