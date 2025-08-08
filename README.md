@@ -8,7 +8,6 @@
 -  ### Learning **Advanced Kubernetes**, **Prometheus & Grafana Monitoring**, and **Docker Security**  
 -  ### Ask me about **Azure Cloud**, **Terraform**, **Azure Pipelines**, and **Infrastructure as Code (IaC)**  
 -  ### Reach me at: **[karimtamboli07@gmail.com](mailto:karimtamboli07@gmail.com)**  
--  ### Fun Fact: I break things… just to automate fixing them 
 
 ---
 
