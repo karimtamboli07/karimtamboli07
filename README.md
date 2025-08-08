@@ -1,52 +1,53 @@
-<h1 align="center">Hi 👋, I'm Karim Tamboli</h1>
-<h3 align="center">Cloud & DevOps Enthusiast | Azure | Terraform | Kubernetes | CI/CD</h3>
+<h1 align="center">🚀 Hi, I'm Karim Tamboli</h1>
+<h3 align="center">🌥 Cloud & DevOps Enthusiast | Azure | Terraform | Kubernetes | CI/CD</h3>
 
 ---
 
-🌟 **About Me**
-
-- 🔭 I’m currently working on **automating Azure DevOps self-hosted agents**
-- 🌱 I’m learning **advanced Kubernetes**, **monitoring with Prometheus & Grafana**, and **Docker security**
-- 💬 Ask me about **Azure Cloud**, **Terraform**, **Azure Pipelines**, or **Infrastructure as Code**
-- 📫 How to reach me: **karimtamboli07@gmail.com**
-- ⚡ Fun fact: I love breaking things just to automate fixing them 😄
-
----
-
-🛠️ **Tech Stack & Tools**
-
-- 💻 Azure | Terraform | Kubernetes | Docker  
-- 🛠️ Azure DevOps | GitHub Actions | Helm | Prometheus  
-- 🔐 Azure Key Vault | Linux | PowerShell | Bash  
-- 💾 Git | YAML | CI/CD | Monitoring | Automation  
+## 🌟 About Me
+-  Currently working on **automating Azure DevOps self-hosted agents**  
+-  Learning **Advanced Kubernetes**, **Prometheus & Grafana Monitoring**, and **Docker Security**  
+-  Ask me about **Azure Cloud**, **Terraform**, **Azure Pipelines**, and **Infrastructure as Code (IaC)**  
+-  Reach me at: **[karimtamboli07@gmail.com](mailto:karimtamboli07@gmail.com)**  
+-  Fun Fact: I break things… just to automate fixing them 
 
 ---
 
-📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karimtamboli07&show_icons=true&theme=radical" alt="stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=karimtamboli07&theme=radical&hide_border=false" alt="streak" />
+##  Tech Stack & Tools  
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
 ---
 
-🌍 **Connect with me**
-
+##  GitHub Stats  
 <p align="center">
-  <a href="https://linkedin.com/in/karimtamboli" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="karimtamboli" /></a>
-  <a href="mailto:karimtamboli07@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://github.com/karimtamboli07" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="github" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=karimtamboli07&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=karimtamboli07&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
 
-📝 **Featured Projects**
-
-- 🔁 [Az-self-host-agent-Automate](https://github.com/karimtamboli07/Az-self-host-agnet-Automate): Automate VM/K8s DevOps agent setup  
-- ☁️ [K8S-Cluster](https://github.com/karimtamboli07/K8S-Cluster): Kubernetes cluster setup & monitoring on Azure  
+##  Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/karimtamboli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:karimtamboli07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/karimtamboli07"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-💡 _“Let’s automate everything.”_
+##  Featured Projects  
+-  [**Az-self-host-agent-Automate**](https://github.com/karimtamboli07/Az-self-host-agnet-Automate) — Automates VM/K8s Azure DevOps agent setup  
+-  [**K8S-Cluster**](https://github.com/karimtamboli07/K8S-Cluster) — Kubernetes cluster setup & monitoring on Azure  
+
+---
+ *“Let’s automate everything.”*
