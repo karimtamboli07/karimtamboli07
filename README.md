@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hi, I'm Karim Tamboli</h1>
-<h3 align="center">🌥 Cloud & DevOps Enthusiast | Azure | Terraform | Kubernetes | CI/CD</h3>
+<h3 align="center"> Cloud & DevOps Enthusiast | Azure | Terraform | Kubernetes | CI/CD </h3>
 
 ---
 
